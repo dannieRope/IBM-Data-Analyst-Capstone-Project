@@ -1,1 +1,1 @@
-### Dashboard is created using IBM Cognos Analytics
+### Dashboard is created using IBM Cognos Analytics. [Click here to view the interactive dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage&action=view&mode=dashboard&subView=model0000018f5c5d2978_00000000)

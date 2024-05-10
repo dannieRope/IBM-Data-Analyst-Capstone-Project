@@ -1,1 +1,1 @@
-Above, are the three dashboards created using IBM Cognos Analytics
+### Dashboard is created using IBM Cognos Analytics
